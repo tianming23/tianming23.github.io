@@ -1,18 +1,16 @@
-# Change baseurl before deploy
-baseurl      = "https://starter.stack.cai.im/"
-languageCode = "en-us"
-title        = "Hugo Theme Stack Starter"
+# 部署前请改成你的站点地址（仓库名为 username.github.io 时用根路径）
+baseurl      = "https://tianming23.github.io/"
+languageCode = "zh-cn"
+title        = "我的博客"
 
-# Theme i18n support
-# See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
-defaultContentLanguage = "en"
+# 主题多语言：可选 en, zh-cn 等
+defaultContentLanguage = "zh-cn"
 
-# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
-# This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage = false
+# 使用中文/日文/韩文时设为 true，摘要和字数统计才正确
+hasCJKLanguage = true
 
-# Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+# 若使用 Disqus 评论，填你的 shortname；不用可留空或删掉
+disqusShortname = ""
 
 [pagination]
     pagerSize = 5

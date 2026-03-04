@@ -10,16 +10,17 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
+    since      = 2025
     customText = ""
 
 [dateFormat]
     published   = ":date_full"
     lastUpdated = ":date_full"
 
+# 侧边栏：换成你的头像和一句话介绍
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "在这里写一句你的个人简介或座右铭。"
     avatar   = "img/avatar.png"
 
 [article]
