@@ -1,7 +1,7 @@
 # 部署前请改成你的站点地址（仓库名为 username.github.io 时用根路径）
 baseurl      = "https://tianming23.github.io/"
 languageCode = "zh-cn"
-title        = "我的博客"
+title        = "Huanghao's Blog"
 
 # 主题多语言：可选 en, zh-cn 等
 defaultContentLanguage = "zh-cn"
