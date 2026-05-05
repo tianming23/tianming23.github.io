@@ -1,11 +1,4 @@
-# Configure main menu and social menu
-[[main]]
-    identifier = "resume"
-    name       = "简历"
-    url        = "/page/resume/"
 
-    [main.params]
-        icon = "user"
 
 # 换成你的社交链接，不需要的整段删掉即可
 [[social]]
