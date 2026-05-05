@@ -22,6 +22,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ## 实习经历
 - 2026.03- 至今 智元机器人
+
 完成 Diffusion Policy（ResNet / DINO backbone）及 Pi0.5 在真实 Franka 机械臂上的部署；面向不同任务完成数据采集、模型训练与效果验证，沉淀了遥操作，键盘操作代码、部署控制代码等实验基础设施，并获得了各任务的初步 baseline。围绕后续实验要求，系统调研视频生成与视角转换方向相关工作，基于neoverse论文，完成从头视角到手部视角转换 demo 的初步搭建，主要将 VGGT、WorldMirror、WAN 等方法进行组合，为后续实验推进提供技术基础。
 
 
@@ -33,6 +34,9 @@ weight: 1       # You can add weight to some posts to override the default sorti
 -  数学基础好，能很快的培养对于专业领域的数据敏感度，理解能力强
 -  熟悉Linux开发，部分集群使用规则
 -  debug能力较好，会独立自主的去解决很显示的问题
+
+## 比ai的优势
+尽管ai有很多知识，可以快速上手所有的文档。 但它并不真正对任务结果负责，也难以独立完成对复杂情境的判断、取舍。 项目的推进，代码review,细节的对齐，实验的验证,目前仍需要人来持续介入和主导，这也是目前我的价值所在。同时目前我的记忆功能，从某种角度来说，是优于ai的。我+ai的价值>ai的价值。
 
 
 
